@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    color:#999;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    font-style: 14px;
+    font-family: "微软雅黑";
+    color: #999;
+}
+
+
+/* 导航 */
